@@ -1,4 +1,4 @@
-# Texas hold em solve model implenation
+# Texas hold em solver model implementation
 
 
 This is a Python implementation of the **Student of Games** algorithm from the paper:
@@ -12,8 +12,11 @@ This is a Python implementation of the **Student of Games** algorithm from the p
 I vibe coded this with claudecode on Sun Aug 17, 2025. I did this to spite my friend Veigarou who said it wasn't possible.
 
 Grok it out and let me know on my stream or discord how it went! 
+Twitch: https://www.twitch.tv/krystal_mess323
 
+Discord: : https://discord.gg/qwuUkpbxEm
 
+Youtube: https://www.youtube.com/@krystal_mess323
 
 
 <----- begin ai generated readme ----->
