@@ -1,10 +1,11 @@
-# Texas hold em solver model implementation
+# Texas hold em solver model ♠️ implementation
 
 
 This is a Python implementation of the **Student of Games** algorithm from the paper:
 
-> "Student of Games: A unified learning algorithm for both perfect and imperfect information games"  
 > https://arxiv.org/pdf/2112.03178 
+
+> "Student of Games: A unified learning algorithm for both perfect and imperfect information games"  
 > arXiv:2112.03178v2, November 15, 2023
 
 ## Overview
