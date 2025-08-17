@@ -1,0 +1,6 @@
+torch>=1.9.0
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+tqdm>=4.62.0
+dataclasses-json>=0.5.0
