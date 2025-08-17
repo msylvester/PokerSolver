@@ -10,7 +10,7 @@ This is a Python implementation of the **Student of Games** algorithm from the p
 
 ## Overview
 
-I vibe coded this with claudecode on Sun Aug 17, 2025. I did this to spite my friend Veigarou who said it wasn't possible.
+I vibe coded this with claudecode on Sun Aug 17, 2025. __I did this to spite my friend Veigarou__ who said it wasn't possible.
 
 Grok it out and let me know on my stream or discord how it went! 
 Twitch: https://www.twitch.tv/krystal_mess323
